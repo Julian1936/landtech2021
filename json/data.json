@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": "19729bb4-0662-4ab8-89e6-4e8449e0a77e",
+      "title": "How to get planning permission in the Green Belt",
+      "url": "https://blog.land.tech/how-to-get-planning-permission-in-the-green-belt",
+      "views": 556,
+      "attributedSales": 48,
+      "datePublished": "2020-06-08T12:46:43-01:00",
+      "authorId": "de39cb0c-d755-4317-8c7f-890f7f715e7f"
+    },
+    {
+      "id": "41faaac7-cd34-4bd2-acc8-5756357b07ca",
+      "title": "Planning appeals – how long do they take?",
+      "url": "https://blog.land.tech/what-makes-a-planning-appeal-take-longer-data-story",
+      "views": 472,
+      "attributedSales": 45,
+      "datePublished": "2020-09-29T04:47:26-01:00",
+      "authorId": "05d6a6d7-4274-4c4b-8e85-6f30acfcbf84"
+    },
+    {
+      "id": "55bfaab2-8755-4871-bb9b-3a122b2e4845",
+      "title": "Permitted Development Rights – an introduction",
+      "url": "https://blog.land.tech/permitted-development-rights-an-introduction",
+      "views": 435,
+      "attributedSales": 55,
+      "datePublished": "2021-04-26T11:15:15-01:00",
+      "authorId": "de39cb0c-d755-4317-8c7f-890f7f715e7f"
+    },
+    {
+      "id": "22d7b69a-dc97-4299-b8ba-4632ff4494da",
+      "title": "How effective contracts can save logistical headaches",
+      "url": "https://blog.land.tech/how-effective-contracts-can-save-logistical-headaches",
+      "views": 524,
+      "attributedSales": 44,
+      "datePublished": "2021-03-25T10:26:41-00:00",
+      "authorId": "78c09760-3ef2-4462-90dd-40d33f5ecb22"
+    },
+    {
+      "id": "9510e783-dc33-4001-a90f-98cf55981992",
+      "title": "Why commercial lease data matters (and how to find it)",
+      "url": "https://blog.land.tech/why-commercial-lease-data-matters-and-how-to-find-it",
+      "views": 529,
+      "attributedSales": 35,
+      "datePublished": "2021-05-27T01:25:59-01:00",
+      "authorId": "b763c51b-34b0-423d-a529-8e8bc3024fce"
+    },
+    {
+      "id": "19b3e1cf-8dd5-4dcf-ac4f-f936c59e4231",
+      "title": "How to get started with a land assembly project",
+      "url": "https://blog.land.tech/how-to-get-started-with-a-land-assembly-project",
+      "views": 482,
+      "attributedSales": 49,
+      "datePublished": "2020-05-30T08:51:03-01:00",
+      "authorId": "4194382a-d78f-433e-8168-14c70649d040"
+    },
+    {
+      "id": "f0864da2-ebc8-4e1e-998a-bcaafbcd8f87",
+      "title": "How land agents can profit from power development",
+      "url": "https://blog.land.tech/how-land-agents-can-profit-from-power-development",
+      "views": 438,
+      "attributedSales": 59,
+      "datePublished": "2021-01-30T03:24:19-00:00",
+      "authorId": "de39cb0c-d755-4317-8c7f-890f7f715e7f"
+    }
+  ],
+  "authors": [
+    {
+      "id": "de39cb0c-d755-4317-8c7f-890f7f715e7f",
+      "name": "Craig Beadle",
+      "url": "https://blog.land.tech/author/craig-beadle"
+    },
+    {
+      "id": "05d6a6d7-4274-4c4b-8e85-6f30acfcbf84",
+      "name": "David Heasman",
+      "url": "https://blog.land.tech/author/david-heasman"
+    },
+    {
+      "id": "78c09760-3ef2-4462-90dd-40d33f5ecb22",
+      "name": "Michael Bennett",
+      "url": "https://blog.land.tech/author/michael-bennett"
+    },
+    {
+      "id": "b763c51b-34b0-423d-a529-8e8bc3024fce",
+      "name": "Dani Shipp",
+      "url": "https://blog.land.tech/author/dani-shipp"
+    },
+    {
+      "id": "4194382a-d78f-433e-8168-14c70649d040",
+      "name": "Gabrielle McGuinness",
+      "url": "https://blog.land.tech/author/gabrielle-mcguinness"
+    }
+  ]
+}

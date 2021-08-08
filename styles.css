@@ -1,0 +1,116 @@
+/* Table of Contents 
+
+1. Global 
+2. Structure
+3. Article
+4. Author Table 
+
+*/
+
+/* ==========
+    1. Global 
+========== */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #efefef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ==========
+    2. Structure
+========== */
+
+.row {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 50px 50px;
+}
+
+/* ==========
+    3. Article 
+========== */
+
+.articles-inner {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+}
+
+.article-wrapper {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0px 0px 25px 5px rgb(0 0 0 / 20%);
+}
+
+.article-details h2,
+.article-details p {
+    margin-bottom: 10px;
+}
+
+.article-details a {
+    color: #2a3650;
+    text-decoration: none;;
+}
+
+h2 a:hover {
+    color: #00ebc7;
+}
+
+
+/* Author Details */
+
+.author-details {
+    display: flex;
+    align-items: center;
+}
+
+.author-details img {
+    max-width: 100px;
+    border-radius: 100%;
+    border: 5px solid #00ebc7;
+}
+
+.author-details a {
+    margin-left: 20px;
+    font-weight: 700;
+    color: #00ebc7;
+}
+
+/* Conversion */
+
+.high-conversion span {
+    color: #50C878;
+}
+.medium-conversion span  {
+    color: #FFD700;
+}
+.low-conversion span {
+    color: #EE4B2B;
+}
+
+/* ==========
+    4. Author Table 
+========== */
+
+table {
+    margin: 0 0 20px;
+    padding: 0;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background-color: #fff;
+    border-top: 1px solid #ececec;
+}
+
+td {
+    padding: 16px 20px;
+}
